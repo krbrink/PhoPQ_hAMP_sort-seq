@@ -1,0 +1,8 @@
+NGS/
+Analysis/
+FLASH-1.2.11-windows-bin/
+.ipynb_checkpoints
+__pycache__
+usearch/
+Analysis/merged_reads_df.csv
+Analysis/stats_table_bootstraps.csv

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="144pt" version="1.1" viewBox="0 0 213.260656 144" width="213.260656pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 213.260656 144 
+L 213.260656 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 43.102934 23.002998 
+L 66.956263 23.002998 
+L 68.584003 25.736895 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_1">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 39.104688, 24.812607)" x="39.104688" y="24.812607">Combined</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 43.107736 71.288121 
+L 44.293359 71.30404 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_2">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 39.104688, 73.044053)" x="39.104688" y="73.044053">Helix</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 43.103728 111.501916 
+L 55.002842 111.501916 
+L 57.29755 109.297819 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_3">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 39.104688, 113.311526)" x="39.104688" y="113.311526">Beta</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 43.107545 128.019679 
+L 85.473542 128.019679 
+L 86.06807 124.893936 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_4">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 39.104688, 129.788273)" x="39.104688" y="129.788273">Bridge</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 149.156221 123.841902 
+L 119.880609 123.841902 
+L 118.555318 120.949267 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_5">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 153.152688, 125.651511)" x="153.152688" y="125.651511">Rich</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 149.154058 113.65246 
+L 135.074922 113.65246 
+L 132.90183 111.328368 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_6">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 153.152688, 115.462069)" x="153.152688" y="115.462069">Not Helix or Beta</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 149.155366 50.354802 
+L 148.884938 50.354802 
+L 145.941286 51.562544 
+" style="fill:none;stroke:#000000;stroke-linecap:round;"/>
+   </g>
+   <g id="text_7">
+    <text style="font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 153.152688, 52.164412)" x="153.152688" y="52.164412">Unknown</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 96.128688 20.16 
+C 86.793516 20.16 77.629406 22.681569 69.608301 27.457271 
+C 61.587197 32.232972 55.003064 39.087782 50.554213 47.294679 
+L 96.128688 72 
+L 96.128688 20.16 
+z
+" style="fill:#724279;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 50.554213 47.294679 
+C 46.554737 54.672605 44.406026 62.912561 44.293359 71.30404 
+C 44.180692 79.695519 46.107402 87.990192 49.907355 95.472837 
+L 96.128688 72 
+L 50.554213 47.294679 
+z
+" style="fill:#e92929;"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 49.907355 95.472837 
+C 52.222553 100.031789 55.19956 104.223226 58.741555 107.910833 
+C 62.283551 111.598441 66.351717 114.741804 70.813748 117.238694 
+L 96.128688 72 
+L 49.907355 95.472837 
+z
+" style="fill:#3b54a3;"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 70.813748 117.238694 
+C 75.68309 119.96351 80.960582 121.884359 86.442192 122.926981 
+C 91.923802 123.969603 97.537967 124.120386 103.067639 123.373501 
+L 96.128688 72 
+L 70.813748 117.238694 
+z
+" style="fill:#57b8ff;"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 103.067639 123.373501 
+C 108.134765 122.689091 113.072866 121.258752 117.721344 119.129002 
+C 122.369822 116.999252 126.677731 114.193432 130.50497 110.802794 
+L 96.128688 72 
+L 103.067639 123.373501 
+z
+" style="fill:#fbb13c;"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 130.50497 110.802794 
+C 130.852276 110.495108 131.195435 110.182772 131.534355 109.865872 
+C 131.873275 109.548972 132.207926 109.227536 132.538215 108.901652 
+L 96.128688 72 
+L 130.50497 110.802794 
+z
+" style="fill:#41ab5d;"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 132.538215 108.901652 
+C 139.856885 101.680584 144.864497 92.442924 146.921036 82.369326 
+C 148.977575 72.295728 147.991526 61.834454 144.088915 52.322548 
+C 140.186305 42.810641 133.540794 34.67137 125.001738 28.945006 
+C 116.462682 23.218641 106.410058 20.159998 96.12868 20.16 
+L 96.128688 72 
+L 132.538215 108.901652 
+z
+" style="fill:#bdbdbd;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_8">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(69.233476 36.608453)">17%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(70.01496 44.114641)">(20)</text>
+   </g>
+   <g id="text_9">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(50.24727 69.49353)">15%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(51.028754 76.999717)">(18)</text>
+   </g>
+   <g id="text_10">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(63.029745 96.948625)">9%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(61.868729 104.454812)">(11)</text>
+   </g>
+   <g id="text_11">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(81.858894 108.210736)">10%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(82.640378 115.716923)">(12)</text>
+   </g>
+   <g id="text_12">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(107.264586 105.362251)">9%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(106.10357 112.868439)">(11)</text>
+   </g>
+   <g id="text_13">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(117.624345 98.414904)">1%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(118.405829 105.921092)">(1)</text>
+   </g>
+   <g id="text_14">
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(125.093937 55.257411)">38%</text>
+    <text style="fill:#ffffff;font-family:Arial;font-size:7px;font-style:normal;font-weight:normal;" transform="translate(125.875421 62.763598)">(44)</text>
+   </g>
+  </g>
+ </g>
+</svg>
