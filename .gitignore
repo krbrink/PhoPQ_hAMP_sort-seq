@@ -1,8 +1,12 @@
 NGS/
-Analysis/bootstrapping/input/
 FLASH-1.2.11-windows-bin/
 .ipynb_checkpoints
 __pycache__
 usearch/
 Analysis/merged_reads_df.csv
 Analysis/stats_table_bootstraps.csv
+Analysis/bootstrapping/input/1**
+Analysis/bootstrapping/input/2**
+Analysis/bootstrapping/input/3**
+Analysis/bootstrapping/input/4**
+Analysis/bootstrapping/input/5**
