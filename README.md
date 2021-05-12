@@ -15,7 +15,7 @@ This code was developed with the following package versions installed:
 - matplotlib 3.1.1
 - scipy 1.3.1
 - BioPython 1.74: https://biopython.org/
-- FlowCal: https://taborlab.github.io/FlowCal/
+- FlowCal 1.2.2: https://taborlab.github.io/FlowCal/
 - regex 2019.11.1: https://pypi.org/project/regex/
 - tqdm 4.36.1: https://tqdm.github.io/
 - propy3 1.0.0a2: https://pypi.org/project/propy3/
